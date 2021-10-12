@@ -29,7 +29,7 @@
 ### Github Explorer
 
 <p align="center">
-  <a href="https://github.com/AurinoJunior/Github-explorer">
+  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/01-github-explore">
      <img src="./assets/img/github-explore.png" alt="Github Explorer" width="280"/>
    </a>
 </p>
@@ -37,7 +37,7 @@
 ### AuriMoney (DT Money)
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/02-dtmoney">
+  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/02-aurimoney">
      <img src="./assets/img/aurimoney.png" alt="DT Money" width="280"/>
    </a>
 </p>
@@ -45,7 +45,7 @@
 ### ig.news
 
 <p align="center">
-  <a href="https://github.com/tavareshenrique/ignite-reactjs/tree/main/03-ignews">
+  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/03-ig.news">
      <img src="./assets/img/ig-news.png" alt="ig.news" width="280"/>
    </a>
 </p>
