@@ -55,15 +55,13 @@
 
 ## :one: Chapter I
 
-[Desafio 1](https://github.com/tavareshenrique/ignite-reactjs-desafio-1): Desafio sobre os conceitos.
-
-[Desafio 2](https://github.com/tavareshenrique/ignite-reactjs-desafio-2): Desafio de componentização.
+[Desafio 1](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/01-to-do): Desafio sobre os conceitos.
 
 ## :two: Chapter II
 
-[Desafio 3](https://github.com/tavareshenrique/ignite-reactjs-desafio-3): Desafio utilizando hooks.
+[Desafio 3](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/02-create-hook-cart): Desafio de criando um hook para carrinho de compras.
 
-[Desafio 4](https://github.com/tavareshenrique/ignite-reactjs-desafio-4): Desafio transaformadno JS em TS e Class em Functional Components.
+[Desafio 4](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/03-refactoring-js-ts): Desafio transaformadno JS em TS e Class em Functional Components.
 
 
 # :computer: Autores
