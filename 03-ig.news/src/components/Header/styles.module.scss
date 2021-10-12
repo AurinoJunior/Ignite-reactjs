@@ -1,0 +1,46 @@
+.header {
+  height: 5rem;
+  border-bottom: 1px solid var(--gray-800);
+}
+
+.header__content {
+  max-width: 1080px;
+  height: 5rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+
+  display: flex;
+  align-items: center;
+
+  nav {
+    margin-left: 5rem;
+    height: 100%;
+
+    a {
+      display: inline-block;
+      line-height: 5rem;
+      padding: 0 0.5rem;
+      border-bottom: none;
+      height: 100%;
+      color: var(--gray-300);
+
+      & + a {
+        margin-left: 2rem;
+      }
+
+      &:hover {
+        color: var(--white);
+      }
+
+      &.header__nav--activate {
+        color: var(--white);
+        font-weight: bold;
+        border-bottom: solid 2px var(--yellow-500);
+      }
+    }
+  }
+
+  > button {
+    margin-left: auto;
+  }
+}
