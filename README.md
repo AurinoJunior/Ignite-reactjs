@@ -29,27 +29,22 @@
 
 ### Github Explorer
 
-<p align="center">
-  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/01-github-explore">
-     <img src="./assets/img/github-explore.png" alt="Github Explorer" width="280"/>
-   </a>
-</p>
+[Github explore](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/01-github-explore) 
+**Github Explorer** é o primeiro projeto criado na trilha de ReactJs do Ignite da Rocketseat. 
+O projeto é para demonstrar a construção básica, do zero, de um projeto em React. 
+No projeto é listado os repositórios da Rocketseat utilizando a API do Github..
 
 ### AuriMoney (DT Money)
 
-<p align="center">
-  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/02-aurimoney">
-     <img src="./assets/img/aurimoney.png" alt="DT Money" width="280"/>
-   </a>
-</p>
+[DT Money](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/02-aurimoney) 
+**DT Money** é o segundo projeto criado na trilha de ReactJs do Ignite da Rocketseat. 
+No projeto você é capaz de cadastrar entradas e saidas e consegue visualizar a listagem desses cadastros.
 
 ### ig.news
 
-<p align="center">
-  <a href="https://github.com/AurinoJunior/Ignite-reactjs/tree/master/03-ig.news">
-     <img src="./assets/img/ig-news.png" alt="ig.news" width="280"/>
-   </a>
-</p>
+[Ig.news](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/03-ig.news) 
+**ig.news** é o terceiro projeto criado na trilha de ReactJs do Ignite da Rocketseat. 
+O projeto consiste num blog por assinatura, usamos a API do Stripe para o controle de pagamento e salvamento de dados inscritos no FaunaDB.
 
 
 # :atom_symbol: Desafios
