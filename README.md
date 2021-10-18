@@ -21,6 +21,7 @@
 - [Desafios](#atom_symbol-desafios)
   - [Chapter I](#one-chapter-i)
   - [Chapter II](#two-chapter-ii)
+  - [Chapter III](#two-chapter-iii)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
@@ -62,6 +63,11 @@
 [Desafio 3](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/02-create-hook-cart): Desafio de criando um hook para carrinho de compras.
 
 [Desafio 4](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/03-refactoring-js-ts): Desafio transaformadno JS em TS e Class em Functional Components.
+
+## :two: Chapter III
+
+[Desafio 3](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/04-criando-um-blog): Nesse desafio criei do zero uma aplicação de um blog com Prismic CMS a partir e um layout do Figma
+
 
 
 # :computer: Autores
