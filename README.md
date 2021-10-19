@@ -44,9 +44,9 @@ O projeto consiste num blog por assinatura, usamos a API do Stripe para o contro
 
 [Desafio 1](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/01-to-do): Desafio sobre os conceitos.
 
-[Desafio 3](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/02-create-hook-cart): Desafio de criando um hook para carrinho de compras.
+[Desafio 3](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/03-create-hook-cart): Desafio de criando um hook para carrinho de compras.
 
-[Desafio 4](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/03-refactoring-js-ts): Desafio transaformadno JS em TS e Class em Functional Components.
+[Desafio 4](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/04-refactoring-js-ts): Desafio transaformadno JS em TS e Class em Functional Components.
 
 # :computer: Autores
 
