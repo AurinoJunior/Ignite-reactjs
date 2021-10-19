@@ -48,8 +48,6 @@ O projeto consiste num blog por assinatura, usamos a API do Stripe para o contro
 
 [Desafio 4](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/03-refactoring-js-ts): Desafio transaformadno JS em TS e Class em Functional Components.
 
-[Desafio 5](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/Desafios/04-criando-um-blog): Nesse desafio criei do zero uma aplicação de um blog com Prismic CMS a partir e um layout do Figma
-
 # :computer: Autores
 
 <table>
