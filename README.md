@@ -18,6 +18,7 @@
   - [Github Explorer](#github-explorer)
   - [AuriMoney (DT Money)](#dt-money)
   - [ig.news](#ignews)
+  - [Dashgo](#dashgo)
 - [Desafios](#atom_symbol-desafios)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
@@ -39,6 +40,11 @@ No projeto você é capaz de cadastrar entradas e saidas e consegue visualizar a
 
 **ig.news** é o terceiro projeto criado na trilha de ReactJs do Ignite da Rocketseat. 
 O projeto consiste num blog por assinatura, usamos a API do Stripe para o controle de pagamento e salvamento de dados inscritos no FaunaDB.
+
+### [Dashgo](https://github.com/AurinoJunior/Ignite-reactjs/tree/master/03-ig.news) 
+
+**Dashgo** é o quarto projeto criado na trilha de ReactJs do Ignite da Rocketseat. 
+O projeto consiste em criar um dashboard responsivo com o chakra-ui com estrutura declarativa.
 
 # :atom_symbol: Desafios
 
